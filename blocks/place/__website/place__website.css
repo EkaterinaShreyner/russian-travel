@@ -1,0 +1,19 @@
+.place__website {
+  grid-area: URL;
+  /* max-height: 46px; */
+  /* padding-top: 106px; */
+}
+
+@media (max-width: 783px) {
+  .place__website {
+    margin: 0 0;
+    /* padding-top: 46px; */
+  }
+}
+
+@media (max-width: 335px) {
+  .place__website {
+    margin: 0 auto;
+    /* padding-top: 0; */
+  }
+}

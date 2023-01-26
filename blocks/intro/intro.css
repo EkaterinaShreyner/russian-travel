@@ -15,14 +15,14 @@
 
 @media (max-width: 943px) {
   .intro {
-    margin: 88px auto 0;
+    margin: 88px 24px 0;
     max-width: 720px;
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 335px) {
   .intro {
     max-width: 288px;
-    margin-top: 64px;
+    margin: 64px 16px 0;
   }
 }

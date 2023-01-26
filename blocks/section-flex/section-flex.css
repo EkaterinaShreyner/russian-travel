@@ -1,0 +1,17 @@
+.section-flex {
+  display: flex;
+  flex-direction: column;
+  row-gap: 80px;
+}
+
+@media (max-width: 783px) {
+  .section-flex {
+    row-gap: 73px;
+  }
+}
+
+@media (max-width: 335px) {
+  .section-flex {
+    row-gap: 50px;
+  }
+}

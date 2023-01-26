@@ -2,8 +2,16 @@
   font-size: 54px;
   font-weight: 900;
   line-height: 58px;
+  letter-spacing: 0.3px;
   margin: 0 0 40px 0;
 }
+
+/* @media (max-width: 675px) {
+  .intro__title {
+    font-size: 27px;
+    line-height: 30px;
+  }
+} */
 
 @media (max-width: 380px) {
   .intro__title {
