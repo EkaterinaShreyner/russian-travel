@@ -1,7 +1,7 @@
 .place__paragraph {
   display: flex;
   flex-direction: column;
-  grid-area: paragraph; 
+  grid-area: paragraph;
   margin: 0;
   row-gap: 26px;
   font-weight: 400;
