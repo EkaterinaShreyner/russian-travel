@@ -5,18 +5,18 @@
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
-  letter-spacing: 2px;
-  min-height: 76px;
+  letter-spacing: 1.2px;
 }
 
-@media (max-width: 783px) {
+@media screen and (max-width: 783px) {
   .place__title {
+    max-width: 330px;
     font-size: 42px;
     line-height: 46px;
   }
 }
 
-@media (max-width: 339px) {
+@media screen and (max-width: 339px) {
   .place__title {
     margin: 0 auto;
     min-width: 288px;

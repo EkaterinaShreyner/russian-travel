@@ -6,7 +6,7 @@
   align-items: center;
 }
 
-@media (max-width: 1039px) {
+@media screen and (max-width: 1039px) {
   .lead {
     max-width: 928px;
     margin: 48px auto 0;

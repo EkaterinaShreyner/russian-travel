@@ -7,20 +7,20 @@
   margin-left: 148px;
 }
 
-@media (max-width: 1039px) {
+@media screen and (max-width: 1039px) {
   .intro {
     margin-left: 48px;
   }
 }
 
-@media (max-width: 943px) {
+@media screen and (max-width: 943px) {
   .intro {
     margin: 88px 24px 0;
     max-width: 720px;
   }
 }
 
-@media (max-width: 335px) {
+@media screen and (max-width: 335px) {
   .intro {
     max-width: 288px;
     margin: 64px 16px 0;

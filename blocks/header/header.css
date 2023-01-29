@@ -6,24 +6,21 @@
   justify-content: space-between;
 }
 
-@media (max-width: 1039px) {
+@media screen and (max-width: 1039px) {
   .header {
     max-width: 928px;
-    /* width: 90.63%; */
   }
 } 
 
-@media (max-width: 783px) {
+@media screen and (max-width: 783px) {
   .header {
     max-width: 720px;
     width: 93.75%;
-    /* margin-top: 16px; */
   }
 } 
 
-@media (max-width: 335px) {
+@media screen and (max-width: 335px) {
   .header {
-    /* width: 90%; */
     max-width: 288px;
     margin-top: 16px;
   }

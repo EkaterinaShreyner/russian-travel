@@ -4,13 +4,13 @@
   margin: 64px auto 8px;
 }
 
-@media (max-width: 1039px) {
+@media screen and (max-width: 1039px) {
   .lead__image {
     margin-top: 56px;
   }
 }
 
-@media (max-width: 425px) {
+@media screen and (max-width: 425px) {
   .lead__image {
     margin-top: 40px;
   }

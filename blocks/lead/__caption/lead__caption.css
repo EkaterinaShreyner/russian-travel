@@ -8,13 +8,13 @@
   align-self: baseline;
 }
 
-@media (max-width: 943px) {
+@media screen and (max-width: 943px) {
   .lead__caption {
     margin-left: 24px;
   }
 }
 
-@media (max-width: 425px) {
+@media screen and (max-width: 425px) {
   .lead__caption {
     margin-left: 16px;
   }

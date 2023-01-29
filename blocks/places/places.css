@@ -3,21 +3,21 @@
   margin: 92px auto 0;
 }
 
-@media (max-width: 1039px) {
+@media screen and (max-width: 1039px) {
   .places {
     /* max-width: 928px; */
     margin: 92px 48px 0;
   }
 }
 
-@media (max-width: 920px) {
+@media screen and (max-width: 920px) {
   .places {
     /* max-width: 720px; */
     margin: 88px 24px 0;
   }
 }
 
-@media (max-width: 335px) {
+@media screen and (max-width: 335px) {
   .places {
     max-width: 320px;
     margin: 64px auto 0;
