@@ -1,6 +1,6 @@
 .footer__link {
   list-style: none;
-  color: #FFFFFF;
+  color: #ffffff;
   text-decoration: none;
   margin: 0;
   padding: 0;
@@ -10,7 +10,7 @@
 }
 
 .footer__link:hover {
-  color: blue;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 500px) {

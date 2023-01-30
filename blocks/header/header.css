@@ -10,14 +10,14 @@
   .header {
     max-width: 928px;
   }
-} 
+}
 
 @media screen and (max-width: 783px) {
   .header {
     max-width: 720px;
     width: 93.75%;
   }
-} 
+}
 
 @media screen and (max-width: 335px) {
   .header {

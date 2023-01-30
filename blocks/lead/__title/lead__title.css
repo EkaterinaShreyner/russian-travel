@@ -4,7 +4,6 @@
   font-weight: 900;
   line-height: 100px;
   text-align: center;
-  letter-spacing: 1.6px;
   margin: 0 auto 32px;
 }
 
@@ -22,6 +21,5 @@
     font-size: 40px;
     line-height: 44px;
     margin-bottom: 16px;
-    letter-spacing: 0.6px;
   }
 }

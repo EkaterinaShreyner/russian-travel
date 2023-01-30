@@ -2,12 +2,12 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
-  color: #FFFFFF;
+  color: #ffffff;
   text-decoration: underline;
 }
 
 .place__link:hover {
-  color: #176BFF;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 645px) {

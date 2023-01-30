@@ -1,9 +1,8 @@
 .place {
   display: grid;
   grid-template-columns: 460px 1fr;
-  /* grid-template-rows: auto auto; */
   gap: 48px 40px;
-  grid-template-areas: 
+  grid-template-areas:
     "title URL"
     "image paragraph";
 }
@@ -26,10 +25,10 @@
   .place {
     grid-template-columns: 1fr;
     row-gap: 32px;
-    grid-template-areas: 
-    "title"
-    "URL"
-    "image"
-    "paragraph";
+    grid-template-areas:
+      "title"
+      "URL"
+      "image"
+      "paragraph";
   }
 }

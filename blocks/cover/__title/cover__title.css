@@ -8,16 +8,16 @@
   position: relative;
 }
 
-@media screen and (max-width: 505px) {
+@media screen and (max-width: 520px) {
   .cover__title {
-    font-size: 50px;
-    line-height: 54px;
+    font-size: 45px;
+    line-height: 49px;
   }
 }
 
 @media screen and (max-width: 400px) {
   .cover__title {
     font-size: 32px;
-  line-height: 35px;
+    line-height: 35px;
   }
 }
