@@ -14,14 +14,28 @@
   }
 }
 
-@media screen and (max-width: 783px) {
+@media screen and (max-width: 880px) {
+  .place {
+    grid-template-columns: 400px 1fr;
+    column-gap: 32px;
+  }
+}
+
+@media screen and (max-width: 800px) {
   .place {
     grid-template-columns: 340px 1fr;
     column-gap: 28px;
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 745px) {
+  .place {
+    grid-template-columns: 1fr 1fr;
+    column-gap: 28px;
+  }
+}
+
+@media screen and (max-width: 725px) {
   .place {
     grid-template-columns: 1fr;
     row-gap: 32px;
