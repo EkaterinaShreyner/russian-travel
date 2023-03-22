@@ -6,6 +6,7 @@
 * CSS
 * Flex
 * Grid layout
+* БЭМ
 * Figma
 
 **Figma**
